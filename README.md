@@ -1,2 +1,2 @@
-# Java101Odev6V-cutKitleIndeksi
+# Java101Odev6VucutKitleIndeksi
 Vücut Kitle Indeksi
